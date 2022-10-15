@@ -13,15 +13,15 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 
 ## 🛠 Projects
 
-|💠FrontEnd Mentor Challenges | Tech     | Link  |
+| FrontEnd Mentor Challenges | Tech     | Link  |
 | :-------- |:------- | :------------------------- |
 | `bookmark landing page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/bookmark_landing_page) |
 | `EasyBank` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023) |
 | `Manage Landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/manage-landing-page-master) |
 | `Insure landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/insure-landing-page-master) |
 | `Tracking intro components` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/project_tracking_intro_component) |
-|⎯|⎯|⎯|
-|〽️CodeWars Challenges | Tech     | Link  |
+|⎯⎯⎯⎯⎯⎯⎯⎯⎯|⎯|⎯|
+| CodeWars Challenges | Tech     | Link  |
 | `Credit Mask` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask) |
 | `ArrayDiff` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/arrayDiff) |
 | `Complementary DNA` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/complementary_dna) |
