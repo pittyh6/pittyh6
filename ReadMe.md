@@ -44,7 +44,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `Pitty Web Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
 
 
-![](https://www.notion.so/Development-d813391caa9648559856d65c970f3bd4)
+
 | Courses | Tech | Link                |
 | :-------- | :------------------------- | :------------------------- |
 | `FreeCodeCamp - JavaScript Algorithms & Data Structures` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) |
@@ -55,6 +55,8 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `USP Uni - Intro Software Testing` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 
 
+#test
+![](https://www.notion.so/Development-d813391caa9648559856d65c970f3bd4)
 
 
 
