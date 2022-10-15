@@ -20,7 +20,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `Manage Landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/manage-landing-page-master) |
 | `Insure landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/insure-landing-page-master) |
 | `Tracking intro components` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/project_tracking_intro_component) |
-|  | | |
+|  ----------------------------- |
 |  CodeWars Challenges | Tech     | Link  |
 | :-------- |:------- | :------------------------- |
 | `Credit Mask` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask) |
