@@ -69,9 +69,9 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!--
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=pittyh6&icon=0&color=0)](https://visitcount.itsvg.in)
