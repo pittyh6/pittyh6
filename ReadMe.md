@@ -15,30 +15,29 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 
 | FrontEnd Mentor Challenges | Tech     | Link  |
 | :-------- |:------- | :------------------------- |
-| `bookmark landing page` | `HTML, CSS, JS` | **GitHub**. [link](https://github.com/pittyh6/bookmark_landing_page) |
+| `bookmark landing page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/bookmark_landing_page) |
 
 
 |  CodeWars Challenges | Tech     | Link  |
 | :-------- |:------- | :------------------------- |
-| `Credit Mask` | `JavaScript` | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask) |
-| `ArrayDiff` | `JavaScript` | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/arrayDiff) |
-| `Complementary DNA` | `JavaScript` | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/complementary_dna) |
-| `Reverse Words` | `JavaScript` | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/reverseWords) |
-| `MUCH MORE ...` | for more challenges =>  | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023) |
-
+| `Credit Mask` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask) |
+| `ArrayDiff` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/arrayDiff) |
+| `Complementary DNA` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/complementary_dna) |
+| `Reverse Words` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/reverseWords) |
+| `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023) |
 
 |  CSS Battle Challenges | Tech     | Link |
 | :-------- |:------- | :------------------------- |
-| `Credit Mask` | `HTML, CSS` | **GitHub**. [link]() |
-| `Credit Mask` | `HTML, CSS` | **GitHub**. [link]() |
-| `Credit Mask` | `HTML, CSS` | **GitHub**. [link]() |
-| `Credit Mask` | `HTML, CSS` | **GitHub**. [link]() |
-| `MUCH MORE ...` | for more challenges =>  | **GitHub**. [link]() |
+| `Leafy Trail` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/7_leafy_trail) |
+| `Missing Slice` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/6_missing_slice) |
+| `Acid Rain` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/5_acid_rain) |
+| `Ups and Down` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down) |
+| `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link]() |
 
 
 | Own Projects | Tech     | Link                |
 | :-------- |:------- | :------------------------- |
-| `Pitty Web Page` | `HTML, CSS, JS` | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
+| `Pitty Web Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
 
 
 
@@ -50,6 +49,10 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `Johns Hopkins Uni - Web Development` | Development| **GitHub**. [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023) |
 | `CypressIO` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
 | `USP Uni - Intro Software Testing` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
+
+
+
+
 
 
 # 📊 GitHub Stats:
