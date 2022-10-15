@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 
-<span style"color:orange">hi there</span>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-bezerra-32181923/?locale=en_US) 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pittyh6/)
