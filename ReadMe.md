@@ -13,7 +13,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 
 ## 🛠 Projects
 
-| FrontEnd Mentor Challenges | Tech     | Link  |
+| ```diff - FrontEnd Mentor Challenges ```| Tech     | Link  |
 | :-------- |:------- | :------------------------- |
 | `bookmark landing page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/bookmark_landing_page) |
 | `EasyBank` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023) |
