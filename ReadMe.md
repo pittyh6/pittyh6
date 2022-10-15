@@ -55,10 +55,6 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `USP Uni - Intro Software Testing` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 
 
-#test
-![](https://www.notion.so/Development-d813391caa9648559856d65c970f3bd4)
-
-
 
 
 # 📊 GitHub Stats:
