@@ -22,30 +22,23 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `Tracking intro components` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/project_tracking_intro_component) |
 |⎯|⎯|⎯|
 |  CodeWars Challenges | Tech     | Link  |
-| :-------- |:------- | :------------------------- |
 | `Credit Mask` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask) |
 | `ArrayDiff` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/arrayDiff) |
 | `Complementary DNA` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/complementary_dna) |
 | `Reverse Words` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/reverseWords) |
 | `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023) |
-
+|⎯|⎯|⎯|
 |  CSS Battle Challenges | Tech     | Link |
-| :-------- |:------- | :------------------------- |
 | `Leafy Trail` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/7_leafy_trail) |
 | `Missing Slice` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/6_missing_slice) |
 | `Acid Rain` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/5_acid_rain) |
 | `Ups and Down` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down) |
 | `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link]() |
-
-
+|⎯|⎯|⎯|
 | Own Projects | Tech     | Link                |
-| :-------- |:------- | :------------------------- |
 | `Pitty Web Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
-
-
-
+|⎯|⎯|⎯|
 | Courses | Tech | Link                |
-| :-------- | :------------------------- | :------------------------- |
 | `FreeCodeCamp - JavaScript Algorithms & Data Structures` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) |
 | `FreeCodeCamp - Responsive Web Design` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) |
 | `Web Development Bootcamp 2021` | Development| **GitHub**. [link](https://github.com/pittyh6/Web_Development_Bootcamp_2021) |
