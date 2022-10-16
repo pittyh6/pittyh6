@@ -34,8 +34,8 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `Ups and Down` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down) |
 | `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link]() |
 |⎯⎯|⎯|⎯|
-| Own Projects | Tech     | Link                |
-| `Pitty Web Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
+| Own Projects | Type     | Link                |
+| `Pitty Web Page` | Web Site Page | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
 | Courses | Tech | Link                |
 | `Uni - Computer Science`| IT| Bacharel - Degree|
