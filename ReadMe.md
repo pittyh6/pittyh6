@@ -12,7 +12,8 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 
 ## 🛠 Projects
 
-| Courses | Tech | Link                |
+| Courses | Tech | Link   |
+| :-------- |:------- | :------------------------- |
 | `Uni - Computer Science`| IT| Bacharel - Degree|
 | `FreeCodeCamp - JavaScript Algorithms & Data Structures` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) |
 | `FreeCodeCamp - Responsive Web Design` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) |
@@ -22,7 +23,6 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `USP Uni - Intro Software Testing` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
 |  FrontEnd Mentor Challenges | Tech  | Link  |
-| :-------- |:------- | :------------------------- |
 | `Manage Landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/manage-landing-page-master) |
 | `EasyBank` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023) |
 | `Insure landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/insure-landing-page-master) |
