@@ -51,7 +51,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 
 
 
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pittyh6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pittyh6&theme=dark&hide_border=false)<br/>
@@ -62,7 +62,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!--
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 -->
