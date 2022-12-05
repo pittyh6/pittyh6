@@ -23,6 +23,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `USP Uni - Intro Software Testing` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
 |  Challenge - FrontEnd Mentor  | Tech  | Link  |
+|`Job listings with filtering`| HTML, CSS, JS, JSON|**GitHub**. [link](https://github.com/pittyh6/job_listings_with_filtering_6-12Mths-WebDevStudy-2022-2023)|
 | `Manage Landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/manage-landing-page-master) |
 | `EasyBank` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023) |
 | `Insure landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/insure-landing-page-master) |
