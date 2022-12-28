@@ -15,6 +15,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | Courses | Tech | Link   |
 | :-------- |:------- | :------------------------- |
 | `Uni - Computer Science`| IT| Bacharel - Degree|
+| `FreeCodeCamp - Front End Development Librariess` | Development| **GitHub**. [link](https://github.com/pittyh6/front_end_dev_libraries-8-12Mths-webDevStudy-2022-2023) |
 | `FreeCodeCamp - JavaScript Algorithms & Data Structures` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) |
 | `FreeCodeCamp - Responsive Web Design` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) |
 | `Web Development Bootcamp 2021` | Development| **GitHub**. [link](https://github.com/pittyh6/Web_Development_Bootcamp_2021) |
