@@ -25,14 +25,14 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | Courses | Tech | Link   |
 | :-------- |:------- | :------------------------- |
 | Uni - Computer Science| IT| Bacharel - Degree|
-| `Scrimba - REACT`| Development| **GitHub**. [link](https://github.com/pittyh6/react-scrimba-8-12Mths-webDevStudy-2022-2023)|
-| `FreeCodeCamp - Front End Development Librariess` | Development| **GitHub**. [link](https://github.com/pittyh6/front_end_dev_libraries-8-12Mths-webDevStudy-2022-2023) |
-| `FreeCodeCamp - JavaScript Algorithms & Data Structures` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) |
-| `FreeCodeCamp - Responsive Web Design` | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) |
-| `Web Development Bootcamp 2021` | Development| **GitHub**. [link](https://github.com/pittyh6/Web_Development_Bootcamp_2021) |
-| `Johns Hopkins Uni - Web Development` | Development| **GitHub**. [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023) |
-| `CypressIO` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
-| `USP Uni - Intro Software Testing` | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
+| Scrimba - REACT| Development| **GitHub**. [link](https://github.com/pittyh6/react-scrimba-8-12Mths-webDevStudy-2022-2023)|
+| FreeCodeCamp - Front End Development Librariess | Development| **GitHub**. [link](https://github.com/pittyh6/front_end_dev_libraries-8-12Mths-webDevStudy-2022-2023) |
+| FreeCodeCamp - JavaScript Algorithms & Data Structures | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) |
+| FreeCodeCamp - Responsive Web Design | Development| **GitHub**. [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) |
+| Web Development Bootcamp 2021 | Development| **GitHub**. [link](https://github.com/pittyh6/Web_Development_Bootcamp_2021) |
+| Johns Hopkins Uni - Web Development | Development| **GitHub**. [link](https://github.com/pittyh6/JohnsHopkinsUni_html-css-and-Javascript-for-Web-Developers_2-12Mths-WebDevStudy-2022-2023) |
+| CypressIO | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
+| USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
 |  Challenge - FrontEnd Mentor  | Tech  | Link  |
 |`Job listings with filtering`| HTML, CSS, JS, JSON|**GitHub**. [link](https://github.com/pittyh6/job_listings_with_filtering_6-12Mths-WebDevStudy-2022-2023)|
