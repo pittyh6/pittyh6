@@ -57,7 +57,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link]() |
 |⎯⎯|⎯|⎯|
 | Own Projects | Type     | Link  |
-| `WorkHours - First Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/to_do_list-v2.2-12mths-web_dev)|
+| `WorkHours - First Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v1)|
 | `To Do List - Second Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/to_do_list-v2.2-12mths-web_dev)|
 | `To Do List - First Version`|HTML, CSS, JavaScript, JQuery| **GitHub**. [link](https://github.com/pittyh6/to_do_list-12mths-web_dev)|
 | `Memory Game (In Progress...)`| Game | **GitHub**. [link](https://github.com/pittyh6/memory_game-5-12mths-web_devlopment_2022-2023)|
