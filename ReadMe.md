@@ -34,6 +34,13 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | CypressIO | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
+| Own Projects | Type     | Link  |
+| `WorkHours - First Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v1)|
+| `To Do List - Second Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/to_do_list-v2.2-12mths-web_dev)|
+| `To Do List - First Version`|HTML, CSS, JavaScript, JQuery| **GitHub**. [link](https://github.com/pittyh6/to_do_list-12mths-web_dev)|
+| `Memory Game (In Progress...)`| Game | **GitHub**. [link](https://github.com/pittyh6/memory_game-5-12mths-web_devlopment_2022-2023)|
+| `Pitty Web Page` | Web Site Page | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
+|⎯⎯|⎯|⎯|
 |  Challenge - FrontEnd Mentor  | Tech  | Link  |
 |`Job listings with filtering`| HTML, CSS, JS, JSON|**GitHub**. [link](https://github.com/pittyh6/job_listings_with_filtering_6-12Mths-WebDevStudy-2022-2023)|
 | `Manage Landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/manage-landing-page-master) |
@@ -55,13 +62,6 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `Acid Rain` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/5_acid_rain) |
 | `Ups and Down` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down) |
 | `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link]() |
-|⎯⎯|⎯|⎯|
-| Own Projects | Type     | Link  |
-| `WorkHours - First Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v1)|
-| `To Do List - Second Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/to_do_list-v2.2-12mths-web_dev)|
-| `To Do List - First Version`|HTML, CSS, JavaScript, JQuery| **GitHub**. [link](https://github.com/pittyh6/to_do_list-12mths-web_dev)|
-| `Memory Game (In Progress...)`| Game | **GitHub**. [link](https://github.com/pittyh6/memory_game-5-12mths-web_devlopment_2022-2023)|
-| `Pitty Web Page` | Web Site Page | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
 
 
