@@ -20,7 +20,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 <br>
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-## 🛠 Projects
+## 🛠 Courses
 
 | Courses | Tech | Link   |
 | :-------- |:------- | :------------------------- |
@@ -34,6 +34,10 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | CypressIO | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
+
+## 🎯 Projects
+| Courses | Tech | Link   |
+| :-------- |:------- | :------------------------- |
 | Own Projects | Type     | Link  |
 | `WorkHours - First Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v1)|
 | `To Do List - Second Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/to_do_list-v2.2-12mths-web_dev)|
