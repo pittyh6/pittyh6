@@ -44,7 +44,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `To Do List - First Version`|HTML, CSS, JavaScript, JQuery| **GitHub**. [link](https://github.com/pittyh6/to_do_list-12mths-web_dev)|
 | `Memory Game (In Progress...)`| Game | **GitHub**. [link](https://github.com/pittyh6/memory_game-5-12mths-web_devlopment_2022-2023)|
 | `Pitty Web Page` | Web Site Page | **GitHub**. [link](https://github.com/pittyh6/new_pitty_webpage-4-12Mths-WebDevStudy-2022-2023) |
-|⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|
+|⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|
 |  Challenge - FrontEnd Mentor  | Tech  | Link  |
 |`Job listings with filtering`| HTML, CSS, JS, JSON|**GitHub**. [link](https://github.com/pittyh6/job_listings_with_filtering_6-12Mths-WebDevStudy-2022-2023)|
 | `Manage Landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/manage-landing-page-master) |
@@ -52,22 +52,25 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | `Insure landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/insure-landing-page-master) |
 | `Tracking intro components` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/project_tracking_intro_component) |
 | `bookmark landing page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/bookmark_landing_page) |
-|⎯⎯|⎯|⎯|
+|⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|
 | Challenges - CodeWars | Tech     | Link  |
 | `Credit Mask` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask) |
 | `ArrayDiff` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/arrayDiff) |
 | `Complementary DNA` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/complementary_dna) |
 | `Reverse Words` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/reverseWords) |
 | `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023) |
-|⎯⎯|⎯|⎯|
+|⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|
 | Challenges - CSS Battle | Tech     | Link |
 | `Leafy Trail` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/7_leafy_trail) |
 | `Missing Slice` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/6_missing_slice) |
 | `Acid Rain` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/5_acid_rain) |
 | `Ups and Down` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down) |
 | `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link]() |
-|⎯⎯|⎯|⎯|
-
+|⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|
+| Tutorial | Tech     | Link |
+| `Calculator` | React| **GitHub**. [link](https://github.com/pittyh6/react_calculator) |
+| `Basic react` | React| **GitHub**. [link](https://github.com/pittyh6/react_app) |
+|⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|
 
 
 
