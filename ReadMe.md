@@ -34,7 +34,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | CypressIO | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
-| React JS | [Development](https://todoslistreactjs.netlify.app/) | **GitHub**. [link](https://github.com/pittyh6/react-scrimba-8-12Mths-webDevStudy-2022-2023)|
+| React JS | [Site link](https://todoslistreactjs.netlify.app/) | **GitHub**. [link](https://github.com/pittyh6/react-scrimba-8-12Mths-webDevStudy-2022-2023)|
 
 ## 🎯 Projects
 | Own Projects | Type     | Link  |
