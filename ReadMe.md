@@ -35,7 +35,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
 | React JS - Todo List | [Site link](https://todoslistreactjs.netlify.app/) | **GitHub**. [link](https://github.com/pittyh6/reactjs-todolist)|
-| React JS - NASA API | [Site link]() | **GitHub**. [link](https://github.com/pittyh6/react-nasa-api-app)|
+| React JS - NASA API | API | **GitHub**. [link](https://github.com/pittyh6/react-nasa-api-app)|
 
 ## 🎯 Projects
 | Own Projects | Type     | Link  |
