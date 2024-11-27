@@ -40,7 +40,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 ## 🎯 Projects
 | Own Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
-| `task traker`|React, Vite, HTML, CSS, JavaScript, Tailwind CSS, | **GitHub**. [link]()|
+| `task traker`|React, Vite, HTML, CSS, JavaScript, Tailwind CSS, | **GitHub**. Private|
 | `qQuiz`|React, HTML, CSS, JavaScript| **GitHub**. [link](https://github.com/pittyh6/qQuiz)|
 | `WorkHours - Second Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v2)|
 | `WorkHours - First Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v1)|
