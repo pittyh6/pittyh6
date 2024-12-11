@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
+Hi, I am Priscila.<br>I am a Software Developer and QA Software Tester.<br> Web Development with JavaScript. <br> Learning React JS(web developement), React Native (ios and android apps) and Swift(ios).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-bezerra-32181923/?locale=en_US) 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pittyh6/)
+<!--[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pittyh6/) -->
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pittyh6@gmail.com?subject=[GitHub])
 
 
