@@ -35,7 +35,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
 
-## 🎯 Projects
+# 🎯 Projects
 | Own Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
 | `Counter`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript,  <br> 3) Swift | **GitHub**. [ReactJS link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactjs) <br>  **GitHub**. [React Native link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactNative) <br>  **GitHub**. [Swift link - In Progress]()|
