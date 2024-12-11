@@ -40,7 +40,7 @@ Hi, I am Priscila.<br>I am a Front End Developer and QA Software Tester.<br>
 ## 🎯 Projects
 | Own Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
-| `Counter`|1) ReactJS + Vite, CSS, Tailwind CSS, HTML, <br> 2) React Native + Expo, JavaScript, CSS, NativeWind , Tailwind CSS, HTML,  <br> 3 Swift | **GitHub**. [ReactJS link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactjs) <br>  **GitHub**. [React Native link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactNative) <br>  **GitHub**. [Swift link - In Progress]()|
+| `Counter`|1) ReactJS + Vite, CSS, Tailwind CSS, HTML, <br> 2) React Native + Expo, JavaScript, CSS, NativeWind , Tailwind CSS, HTML,  <br> 3) Swift | **GitHub**. [ReactJS link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactjs) <br>  **GitHub**. [React Native link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactNative) <br>  **GitHub**. [Swift link - In Progress]()|
 | `task traker`|React, Vite, HTML, CSS, JavaScript, Tailwind CSS, | **GitHub**. In Progress |
 | `qQuiz`|React, HTML, CSS, JavaScript| **GitHub**. [link](https://github.com/pittyh6/qQuiz)|
 | `WorkHours - Second Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v2)|
