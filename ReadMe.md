@@ -36,7 +36,7 @@ Hi, I am Priscila. I am a Software Developer and QA Software Tester.
 | CypressIO | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
-<hr>
+
 # 🎯 Projects
 | Own Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
