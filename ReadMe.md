@@ -41,7 +41,6 @@ Hi, I am Priscila. I am a Software Developer and QA Software Tester.
 | Own Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
 | `Counter`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript,  <br> 3) Swift | **GitHub**. [ReactJS link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactjs) <br>  **GitHub**. [React Native link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactNative) <br>  **GitHub**. [Swift link - In Progress]()|
-<!-- | `task traker`|React, Vite, HTML, CSS, JavaScript, Tailwind CSS, | **GitHub**. In Progress | -->
 | `qQuiz`|React, HTML, CSS, JavaScript| **GitHub**. [link](https://github.com/pittyh6/qQuiz)|
 | `WorkHours - Second Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v2)|
 | `WorkHours - First Version`|HTML, CSS, JavaScript, JQuery, express, ejs templates, mongoDB, mongoose| **GitHub**. [link](https://github.com/pittyh6/work_hours_v1)|
