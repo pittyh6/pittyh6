@@ -36,7 +36,7 @@ Hi, I am Priscila. I am a Software Developer and QA Software Tester.
 | CypressIO | QA Tester | **GitHub**. [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) |
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 |⎯⎯|⎯|⎯|
-
+<hr>
 # 🎯 Projects
 | Own Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
@@ -57,6 +57,7 @@ Hi, I am Priscila. I am a Software Developer and QA Software Tester.
 | `Insure landing Page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/insure-landing-page-master) |
 | `Tracking intro components` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/project_tracking_intro_component) |
 | `bookmark landing page` | HTML, CSS, JS | **GitHub**. [link](https://github.com/pittyh6/bookmark_landing_page) |
+<!--
 |⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|
 | Challenges - CodeWars | Tech     | Link  |
 | `Credit Mask` | JavaScript | **GitHub**. [link](https://github.com/pittyh6/codewars-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/CreditCardMask) |
@@ -72,7 +73,7 @@ Hi, I am Priscila. I am a Software Developer and QA Software Tester.
 | `Ups and Down` | HTML, CSS | **GitHub**. [link](https://github.com/pittyh6/cssbattle-4_5-12Mths-WebDevelopmentStudy-2022-2023/tree/master/battle_1_pilot_battle/4_ups_and_down) |
 | `MUCH MORE ...` | `for more challenges => ` | **GitHub**. [link]() |
 |⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯⎯⎯⎯⎯|⎯⎯⎯⎯⎯|
-
+-->
 
 
 
