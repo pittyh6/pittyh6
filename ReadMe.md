@@ -40,7 +40,7 @@ Hi, I am Priscila. I am a Software Developer and QA Software Tester.
 # 🎯 Projects
 | Own Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
-| `To Do List`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript, <!-- <br> 3) Swift -->| **GitHub**. [ReactJS link](https://github.com/pittyh6/todolist/tree/main/toDoList-reactjs) <br>  **GitHub**. [React Native link]() <!-- <br>  **GitHub**. [Swift link - In Progress]() -->|
+| `To Do List`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript, <!-- <br> 3) Swift -->| **GitHub**. [ReactJS link](https://github.com/pittyh6/todolist/tree/main/toDoList-reactjs) <br>  **GitHub**. [React Native In Progress link]() <!-- <br>  **GitHub**. [Swift link - In Progress]() -->|
 | `Counter`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript,  <!-- <br> 3) Swift --> | **GitHub**. [ReactJS link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactjs) <br>  **GitHub**. [React Native link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactNative) <!-- <br>  **GitHub**. [Swift link - In Progress]() -->|
 | `qQuiz`|React, HTML, CSS, JavaScript| **GitHub**. [link](https://github.com/pittyh6/qQuiz)|
 | `WorkHours - Second Version`|JavaScript, JQuery, express, ejs templates, mongoDB, mongoose, HTML, CSS| **GitHub**. [link](https://github.com/pittyh6/work_hours_v2)|
