@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, I am Priscila. I am a Software Developer and QA Software Tester.
-<br> Web Development with JavaScript. 
-<!--<br> * Learning React JS(web developement), React Native (ios and android apps) and Swift(ios). -->
+Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) and Data Analyst.
+<!--<br> Web Development with JavaScript. 
+<br> * Learning React JS(web developement), React Native (ios and android apps) and Swift(ios). -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-bezerra-32181923/?locale=en_US) 
