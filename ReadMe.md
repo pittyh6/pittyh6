@@ -10,7 +10,7 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 
 
 # 💻 Tech Stack:
-** Tests
+## Tests
 ![Cypress](https://img.shields.io/badge/cypress-%231572B6.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-%231572B6.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Python](https://img.shields.io/badge/pyrthon-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +19,8 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 ![Testrail](https://img.shields.io/badge/testrail-%231572B6.svg?style=for-the-badge&logo=testrail&logoColor=white)
 ![TestLink](https://img.shields.io/badge/testlink-%231572B6.svg?style=for-the-badge&logo=testlink&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)
-##Dev
+<br>
+## Dev
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![typeScript](https://img.shields.io/badge/typescript-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
