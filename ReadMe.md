@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) and Data Analyst.
+Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automation Tests.
 <!--<br> Web Development with JavaScript. 
 <br> * Learning React JS(web developement), React Native (ios and android apps) and Swift(ios). -->
 
