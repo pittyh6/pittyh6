@@ -15,8 +15,6 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 ![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/sql-darkgray.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%231572B6.svg?style=for-the-badge&logo=jira&logoColor=white)    ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![TestRail](https://img.shields.io/badge/testrail-%6DA55F.svg?style=for-the-badge&logo=testrail&logoColor=white)  ![TestLink](https://img.shields.io/badge/testlink-%231572B6.svg?style=for-the-badge&logo=testlink&logoColor=white)
-
-
 <br>
 ## Dev
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -31,7 +29,7 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 <br>
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 ## 🛠 Courses
 
