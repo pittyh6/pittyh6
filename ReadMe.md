@@ -15,7 +15,7 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 ![Cucumber](https://img.shields.io/badge/cucumber-green.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Python](https://img.shields.io/badge/pyrthon-yellow.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%231572B6.svg?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/testrail-%231572B6.svg?style=for-the-badge&logo=testrail&logoColor=white)
+![TestRail](https://img.shields.io/badge/testrail-%6DA55F.svg?style=for-the-badge&logo=testrail&logoColor=white)
 ![TestLink](https://img.shields.io/badge/testlink-%231572B6.svg?style=for-the-badge&logo=testlink&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-black.svg?style=for-the-badge&logo=sql&logoColor=white)
 <br>
