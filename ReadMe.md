@@ -11,13 +11,13 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 
 # 💻 Tech Stack:
 ## Tests
-![Cypress](https://img.shields.io/badge/cypress-%231572B6.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-black.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-green.svg?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Python](https://img.shields.io/badge/pyrthon-yellow.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%231572B6.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/testrail-%231572B6.svg?style=for-the-badge&logo=testrail&logoColor=white)
 ![TestLink](https://img.shields.io/badge/testlink-%231572B6.svg?style=for-the-badge&logo=testlink&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-black.svg?style=for-the-badge&logo=sql&logoColor=white)
 <br>
 ## Dev
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
