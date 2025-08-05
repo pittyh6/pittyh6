@@ -46,8 +46,11 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 <!-- |⎯⎯|⎯|⎯| -->
 
-# 🎯 Projects Dev
-| Own Projects | Type     | Link  |
+# 🎯 Projects
+| Own SQL + Excel (Data Analyst) Projects | Type     | Link  |
+| :-------- |:------- | :------------------------- |
+| `550. Game Play Analysis IV`|1) LeetCode SQL, <br> 2) Excel| **GitHub**. [Project link](https://github.com/pittyh6/1_sql_excel_leetcode/tree/main/550.%20Game%20Play%20Analysis%20IV)
+| Own DEV Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
 | `To Do List`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript, <!-- <br> 3) Swift -->| **GitHub**. [ReactJS link](https://github.com/pittyh6/todolist/tree/main/toDoList-reactjs) <br>  **GitHub**. [React Native In Progress link]() <!-- <br>  **GitHub**. [Swift link - In Progress]() -->|
 | `Counter`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript,  <!-- <br> 3) Swift --> | **GitHub**. [ReactJS link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactjs) <br>  **GitHub**. [React Native link](https://github.com/pittyh6/counterApp/tree/main/counterApp-reactNative) <!-- <br>  **GitHub**. [Swift link - In Progress]() -->|
