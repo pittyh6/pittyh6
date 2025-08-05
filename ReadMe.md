@@ -49,7 +49,7 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 # 🎯 Projects
 | Own SQL + Excel (Data Analyst) Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
-| `550. Game Play Analysis IV`|1) LeetCode SQL, <br> 2) Excel| **GitHub**. [Project link](https://github.com/pittyh6/1_sql_excel_leetcode/tree/main/550.%20Game%20Play%20Analysis%20IV)
+| `550. Game Play Analysis IV`|1) LeetCode SQL, <br> 2) Excel| **GitHub**. [Project link](https://github.com/pittyh6/1_sql_excel_leetcode/tree/main/550.%20Game%20Play%20Analysis%20IV)|
 | Own DEV Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
 | `To Do List`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript, <!-- <br> 3) Swift -->| **GitHub**. [ReactJS link](https://github.com/pittyh6/todolist/tree/main/toDoList-reactjs) <br>  **GitHub**. [React Native In Progress link]() <!-- <br>  **GitHub**. [Swift link - In Progress]() -->|
