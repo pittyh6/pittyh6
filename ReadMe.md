@@ -46,7 +46,7 @@ Hi, I am Priscila. I am a Systems Officer, QA Software Tester(Analyst) + Automat
 | USP Uni - Intro Software Testing | QA Tester | **GitHub**. [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) |
 <!-- |⎯⎯|⎯|⎯| -->
 
-# 🎯 Projects
+# 🎯 Projects Dev
 | Own Projects | Type     | Link  |
 | :-------- |:------- | :------------------------- |
 | `To Do List`|1) ReactJS + Vite, Tailwind CSS, <br> 2) React Native + Expo, JavaScript, <!-- <br> 3) Swift -->| **GitHub**. [ReactJS link](https://github.com/pittyh6/todolist/tree/main/toDoList-reactjs) <br>  **GitHub**. [React Native In Progress link]() <!-- <br>  **GitHub**. [Swift link - In Progress]() -->|
